@@ -48,7 +48,7 @@
 
 ##
 
-  <a hreft="https://github.com/AdyHye/AdyHye/blob/output/github-contribution-grid-snake.svg">
+  <a hreft="https://github.com/AdyHye/snake.yml/blob/output/github-contribution-grid-snake.svg">
 
 
 
