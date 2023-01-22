@@ -1,6 +1,6 @@
 ## Hello world! 🌞
 
-- 🐹 Olá, me chamo Adyla e tenho 20 anos! Começei na programação em 26 de março de 2022 e desde então vim fazendo alguns pequenos projetos para aperfeiçoar meus conhecimentos em HTML5, CSS3, JS e Java. Falo Inglês fluente e Alemão básico, mas já estudei outros idiomas como Japonês e Coreano. Quero me tornar uma desenvolvedora Front-End e além dos códigos, também sou apaixonada pelas técnicas de UX e UI. 
+- 🐱 Olá, me chamo Adyla e tenho 20 anos! Começei na programação em 26 de março de 2022 e desde então vim fazendo alguns pequenos projetos para aperfeiçoar meus conhecimentos em HTML5, CSS3, JS e Java. Falo Inglês fluente e Alemão básico, mas já estudei outros idiomas como Japonês e Coreano. Quero me tornar uma desenvolvedora Front-End e além dos códigos, também sou apaixonada pelas técnicas de UX e UI. 
 
 ##
 
