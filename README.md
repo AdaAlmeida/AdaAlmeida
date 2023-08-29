@@ -5,10 +5,10 @@
 ##
 
 <div>
-  <a href="https://github.com/AdyHye/github-readme-stats">
-    <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=AdyHye&show_icons=true&theme=material-palenight" />
-  <a href="https://github.com/AdyHye/github-readme-stats">
-   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdyHye&langs_count=6&layout=compact&theme=material-palenight" />
+  <a href="https://github.com/AdaAlmeida/github-readme-stats">
+    <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=AdaAlmeida&show_icons=true&theme=material-palenight" />
+  <a href="https://github.com/AdaAlmeida/github-readme-stats">
+   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdaAlmeida&langs_count=6&layout=compact&theme=material-palenight" />
 </div>
 
 
