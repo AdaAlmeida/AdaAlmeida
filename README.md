@@ -1,6 +1,6 @@
 ## Hello world! 👾
 
-- ☁️ Olá! Sou a Adyla, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Comecei a programar em março de 2022 e venho trabalhando em alguns pequenos projetos para aprimorar meus conhecimentos em HTML5, CSS3, JS e Java. Além disso, falo fluentemente Inglês e tenho conhecimento básico em Alemão, e também já estudei outros idiomas, como Japonês e Coreano. Meu objetivo é me tornar uma desenvolvedora Front-End, e sou apaixonada tanto pelos códigos quanto pelas técnicas de UX e UI.
+- ☁️ Hey there! I'm Adyla, a 21-year-old diving headfirst into Systems Analysis and Development. I started messing with code in March 2022, cooking up some cool stuff in HTML5, CSS3, JS, Java, and the wild world of C. I'm interested in both backend and frontend world and am always creating projects for both sides. Get to know me: 
 
 ##
 
