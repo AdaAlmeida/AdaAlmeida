@@ -19,8 +19,7 @@
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  
-    <img align="right" alt="Adyla-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1066471884826349621/1066472050958532669/adydrawingpic.png">
+  <img align="right" alt="Adyla-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1066471884826349621/1066472050958532669/adydrawingpic.png">
 </div>
 
 ##
