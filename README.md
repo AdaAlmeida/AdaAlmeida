@@ -1,6 +1,6 @@
 ## Hello world! 👾
 
-- ☁️ Hey there! I'm Adyla, a 21-year-old diving headfirst into Systems Analysis and Development. I started messing with code in March 2022, cooking up some cool stuff in HTML5, CSS3, JS, Java, and the wild world of C. I'm interested in both backend and frontend world and am always creating projects for both sides. Get to know me: 
+- ☁️ Hey there! I'm Adyla, a 22-year-old Systems Analysis and Development student. I started exploring programming a long time ago and have since been building projects with HTML5, CSS3, JavaScript, Java, and C. I enjoy working on both backend and frontend development, constantly creating and experimenting with new ideas in both areas.
 
 ##
 
